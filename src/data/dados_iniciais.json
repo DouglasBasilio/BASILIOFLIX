@@ -1,149 +1,123 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
-      "videos": [
-        {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
-        },
-        {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
-        },
-        {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
-        },
-        {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
-        },
-        {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
-        },
-        {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-        },
-        {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-        },
-        {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
-      ]
-    },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Trips",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Top Trips",
+        "url": "https://www.youtube.com/results?search_query=viagens"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Most Beautiful Drive IN THE WORLD?!",
+          "url": "https://www.youtube.com/watch?v=dx5BDr8NDsc"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "As praias de Phi Phi - Tailândia l Ep.5",
+          "url": "https://www.youtube.com/watch?v=mW-bj9zZpfI"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "10 Lugares Incriveis do Brasil",
+          "url": "https://www.youtube.com/watch?v=yAlbT9n8uow"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "O QUE FAZER em CAMPOS DO JORDÃO gastando POUCO - Vlog do Num Pulo",
+          "url": "https://www.youtube.com/watch?v=q-QXdJWm2O4"
+        },
+        {
+          "titulo": "POMERODE SC - Uma pequena Alemanha dentro do Brasil",
+          "url": "https://www.youtube.com/watch?v=2aqrzzsWbus&t"
+        },
+        {
+          "titulo": "FLUTUAÇÃO incrível em BONITO MS",
+          "url": "https://www.youtube.com/watch?v=XksfBORayXk"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Movies",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "red",
+      "link_extra": {
+        "text": "Top movies",
+        "url": "https://www.youtube.com/results?search_query=trailers"
+      },
+      "videos": [
+        {
+          "titulo": "Homem-Formiga e a Vespa",
+          "url": "https://www.youtube.com/watch?v=0HGBv7s1Y7E"
+        },
+        {
+          "titulo": "SPIDER-MAN: INTO THE SPIDER-VERSE",
+          "url": "https://www.youtube.com/watch?v=g4Hbz2jLxvQ"
+        },
+        {
+          "titulo": "SONIC: THE HEDGEHOG",
+          "url": "https://www.youtube.com/watch?v=lDfHbfVS8kI"
+        },
+        {
+          "titulo": "Aquaman",
+          "url": "https://www.youtube.com/watch?v=90bG43JcwRE"
+        },
+        {
+          "titulo": "This Beautiful Fantastic",
+          "url": "https://www.youtube.com/watch?v=8SrXaRRjxtI"
+        },
+        {
+          "titulo": "The Proposal",
+          "url": "https://www.youtube.com/watch?v=Z2lYA7L7PZY"
+        },
+        {
+          "titulo": "Bumblebee ",
+          "url": "https://www.youtube.com/watch?v=lcwmDAYt22k"
+        }    
+      ]
+    },
+    {
+      "titulo": "Music",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Marshmello - Here With Me Feat. CHVRCHES",
+          "url": "https://www.youtube.com/watch?v=NRmSf9VqrUA"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Coldplay - A Sky Full Of Stars",
+          "url": "https://www.youtube.com/watch?v=VPRjCeoBqrI"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Red Hot Chili Peppers - Californication",
+          "url": "https://www.youtube.com/watch?v=YlUKcNNmywk"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Guns N' Roses - Sweet Child O' Mine",
+          "url": "https://www.youtube.com/watch?v=1w7OgIMMRc4"
         }
       ]
     },
     {
       "titulo": "Games",
-      "cor": "red",
+      "cor": "blue",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "Top Games",
+        "url": "https://www.youtube.com/results?search_query=game+trailers"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "FIFA 21 | PS5 TRAILER",
+          "url": "https://www.youtube.com/watch?v=GyLoPn-qw7A"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "F1 2020 - Official Gameplay Trailer",
+          "url": "https://www.youtube.com/watch?v=T58oOjZW-BE"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Super Mario Odyssey - Game Trailer - Nintendo E3 2017",
+          "url": "https://www.youtube.com/watch?v=wGQHQc_3ycE"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Street Fighter V - Ryu Arcade Mode (HARD)",
+          "url": "https://www.youtube.com/watch?v=dG6ZAAWj6z8"
         },
         {
           "titulo": "Pokémon Let's Go Pikachu/Eevee",
@@ -178,6 +152,36 @@
         {
           "titulo": "Como aprender a programar?",
           "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+        }
+      ]
+    },
+    {
+      "titulo": "Back End",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Cursos de Back End na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
+          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+        },
+        {
+          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
+          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+        },
+        {
+          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
+          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+        },
+        {
+          "titulo": "API: Dicionário do Programador",
+          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+        }, 
+        {
+          "titulo": "Usando Git Direito",
+          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
         }
       ]
     }
