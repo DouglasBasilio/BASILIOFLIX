@@ -4,7 +4,7 @@ import { FooterBase } from './styles';
 function Footer() {
   return (
     <FooterBase>
-      <a href="https://www.linkedin.com/in/douglas-basilio-dos-santos-62017144/"  target="_blank">
+      <a href="https://www.linkedin.com/in/douglasbasilio/"  target="_blank">
         <img src="https://i.imgur.com/8twm9Tu.png" width="30%" alt="Logo Douglas Basilio"/>
       </a>
       <p>

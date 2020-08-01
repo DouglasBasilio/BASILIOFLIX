@@ -1,0 +1,201 @@
+{   "categorias":[      
+    {         
+    "id":1,
+    "nome":"Trips",
+    "descricao":"Top Trips",
+    "cor":"#9cd33b",
+    "link_extra":{
+       "text":"Top Trips",
+       "url":"https://www.youtube.com/results?search_query=viagens"
+    
+} 
+},
+ {         
+    "id":2,
+    "nome":"Movies",
+    "descricao": "Top movies",
+    "cor":"red",
+    "link_extra":{
+       "text":"Top movies",
+       "url":"https://www.youtube.com/results?search_query=trailers"
+    
+}
+},
+ {
+    "id":3,
+    "nome":"Music",
+    "descricao":"Top Musics",
+    "cor":"orange"
+ 
+},
+ {         
+    "id":4,
+    "nome":"Games",
+    "descricao":"Top Games",
+    "cor":"blue",
+    "link_extra":{
+       "text":"Top Games",
+       "url":"https://www.youtube.com/results?search_query=game+trailers"
+    
+} 
+}
+
+],
+"videos":[      {
+    "id":1,
+    "CategoriaId":1,
+    "titulo":"Most Beautiful Drive IN THE WORLD?!",
+    "url":"https://www.youtube.com/watch?v=dx5BDr8NDsc"
+ 
+},
+ {
+    "id":2,
+    "CategoriaId":1,
+    "titulo":"As praias de Phi Phi - Tailândia l Ep.5",
+    "url":"https://www.youtube.com/watch?v=mW-bj9zZpfI"
+ 
+},
+ {
+    "id":3,
+    "CategoriaId":1,
+    "titulo":"10 Lugares Incriveis do Brasil",
+    "url":"https://www.youtube.com/watch?v=yAlbT9n8uow"
+ 
+},
+ {
+    "id":4,
+    "CategoriaId":1,
+    "titulo":"O QUE FAZER em CAMPOS DO JORDÃO gastando POUCO - Vlog do Num Pulo",
+    "url":"https://www.youtube.com/watch?v=q-QXdJWm2O4"
+ 
+},
+ {
+    "id":5,
+    "CategoriaId":1,
+    "titulo":"POMERODE SC - Uma pequena Alemanha dentro do Brasil",
+    "url":"https://www.youtube.com/watch?v=2aqrzzsWbus&t"
+ 
+},
+ {
+    "id":6,
+    "CategoriaId":1,
+    "titulo":"FLUTUAÇÃO incrível em BONITO MS",
+    "url":"https://www.youtube.com/watch?v=XksfBORayXk"
+ 
+},
+ {
+    "id":7,
+    "CategoriaId":2,
+    "titulo":"Homem-Formiga e a Vespa",
+    "url":"https://www.youtube.com/watch?v=0HGBv7s1Y7E"
+ 
+},
+ {
+    "id":8,
+    "CategoriaId":2,
+    "titulo":"SPIDER-MAN: INTO THE SPIDER-VERSE",
+    "url":"https://www.youtube.com/watch?v=g4Hbz2jLxvQ"
+ 
+},
+ {
+    "id":9,
+    "CategoriaId":2,
+    "titulo":"SONIC: THE HEDGEHOG",
+    "url":"https://www.youtube.com/watch?v=lDfHbfVS8kI"
+ 
+},
+ {
+    "id":10,
+    "CategoriaId":2,
+    "titulo":"Aquaman",
+    "url":"https://www.youtube.com/watch?v=90bG43JcwRE"
+ 
+},
+ {
+    "id":11,
+    "CategoriaId":2,
+    "titulo":"This Beautiful Fantastic",
+    "url":"https://www.youtube.com/watch?v=8SrXaRRjxtI"
+ 
+},
+ {
+    "id":12,
+    "CategoriaId":2,
+    "titulo":"The Proposal",
+    "url":"https://www.youtube.com/watch?v=Z2lYA7L7PZY"
+ 
+},
+ {
+    "id":13,
+    "CategoriaId":2,
+    "titulo":"Bumblebee ",
+    "url":"https://www.youtube.com/watch?v=lcwmDAYt22k"
+ 
+},
+ {
+    "id":14,
+    "CategoriaId":3,
+    "titulo":"Marshmello - Here With Me Feat. CHVRCHES",
+    "url":"https://www.youtube.com/watch?v=NRmSf9VqrUA"
+ 
+},
+ {
+    "id":15,
+    "CategoriaId":3,
+    "titulo":"Coldplay - A Sky Full Of Stars",
+    "url":"https://www.youtube.com/watch?v=VPRjCeoBqrI"
+ 
+},
+ {
+    "id":16,
+    "CategoriaId":3,
+    "titulo":"Red Hot Chili Peppers - Californication",
+    "url":"https://www.youtube.com/watch?v=YlUKcNNmywk"
+ 
+},
+ {
+    "id":17,
+    "CategoriaId":3,
+    "titulo":"Guns N' Roses - Sweet Child O' Mine",
+    "url":"https://www.youtube.com/watch?v=1w7OgIMMRc4"
+ 
+},
+ {
+    "id":18,
+    "CategoriaId":4,
+    "titulo":"FIFA 21 | PS5 TRAILER",
+    "url":"https://www.youtube.com/watch?v=GyLoPn-qw7A"
+ 
+},
+ {
+    "id":19,
+    "CategoriaId":4,
+    "titulo":"F1 2020 - Official Gameplay Trailer",
+    "url":"https://www.youtube.com/watch?v=T58oOjZW-BE"
+ 
+},
+ {
+    "id":20,
+    "CategoriaId":4,
+    "titulo":"Super Mario Odyssey - Game Trailer - Nintendo E3 2017",
+    "url":"https://www.youtube.com/watch?v=wGQHQc_3ycE"
+ 
+},
+ {
+    "id":21,
+    "CategoriaId":4,
+    "titulo":"Street Fighter V - Ryu Arcade Mode (HARD)",
+    "url":"https://www.youtube.com/watch?v=dG6ZAAWj6z8"
+ 
+},
+ {
+    "id":22,
+    "CategoriaId":4,
+    "titulo":"Pokémon Let's Go Pikachu/Eevee",
+    "url":"https://www.youtube.com/watch?v=L56q_k2ydrs"
+ 
+}
+
+]
+}
+
