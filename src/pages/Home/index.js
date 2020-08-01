@@ -13,7 +13,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"Camper Van Road Trip Pt. 3 (Icefields Parkway in Canada)"}
+        videoDescription={"Irmãos de Vacation EP. 01"}
       />
 
       <Carousel

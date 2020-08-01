@@ -1,75 +1,82 @@
 {
   "categorias": [
     {
-      "titulo": "Trips",
-      "cor": "#9cd33b",
+      "titulo": "Irmãos de Vaca",
+      "cor": "#F6C447",
       "link_extra": {
-        "text": "Top Trips",
-        "url": "https://www.youtube.com/results?search_query=viagens"        
+        "text": "Como viajar para Europa",
+        "url": "https://www.youtube.com/c/Irm%C3%A3osdeVaca/playlists"        
       },
       "videos": [
         {
-          "titulo": "Most Beautiful Drive IN THE WORLD?!",
-          "url": "https://www.youtube.com/watch?v=dx5BDr8NDsc"
+          "titulo": "✈️ Como viajar para a Europa?",
+          "url": "https://youtu.be/z_geDvCEQTc"
         },
         {
-          "titulo": "As praias de Phi Phi - Tailândia l Ep.5",
-          "url": "https://www.youtube.com/watch?v=mW-bj9zZpfI"
+          "titulo": "Avião, trem ou ônibus? Melhor transporte para viajar pela Europa? - Irmãos de Vacation EP. 02",
+          "url": "https://youtu.be/YzX22MCAHFQ"
         },
         {
-          "titulo": "10 Lugares Incriveis do Brasil",
-          "url": "https://www.youtube.com/watch?v=yAlbT9n8uow"
+          "titulo": "Como encontrar hospedagem barata na Europa? - Irmãos de Vacation EP. 03",
+          "url": "https://youtu.be/N0UFvyxSTtA"
         },
         {
-          "titulo": "O QUE FAZER em CAMPOS DO JORDÃO gastando POUCO - Vlog do Num Pulo",
-          "url": "https://www.youtube.com/watch?v=q-QXdJWm2O4"
+          "titulo": "Disney Paris - Irmãos de Vacation EP. 05",
+          "url": "https://youtu.be/QKffEhnaV8g"
         },
         {
-          "titulo": "POMERODE SC - Uma pequena Alemanha dentro do Brasil",
-          "url": "https://www.youtube.com/watch?v=2aqrzzsWbus&t"
+          "titulo": "Quanto custa viajar para Portugal: Roteiro de 15 dias - Irmãos de Vacation EP. 06",
+          "url": "https://youtu.be/zpWn0jbh3KA"
         },
         {
-          "titulo": "FLUTUAÇÃO incrível em BONITO MS",
-          "url": "https://www.youtube.com/watch?v=XksfBORayXk"
-        }
+          "titulo": "TOP 10 atrações turísticas decepcionantes - Irmãos de Vacation EP. 07",
+          "url": "https://youtu.be/hxQNeDjzaDQ"
+        },
+        {
+          "titulo": "Viajar por 1 Euro com a FLIXBUS",
+          "url": "https://youtu.be/O6iNc3kDptk"
+        },
+        {
+          "titulo": "Como comprar PASSAGEM BARATA para PORTUGAL?",
+          "url": "https://youtu.be/Ff3f2jlYkx8"
+        }        
       ]
     },
     {
-      "titulo": "Movies",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "red",
+      "titulo": "Portugal Diário",
+      "cor": "#A40120",
       "link_extra": {
-        "text": "Top movies",
-        "url": "https://www.youtube.com/results?search_query=trailers"
+        "text": "Turismo",
+        "url": "https://www.youtube.com/watch?v=sTy9szs4SnA&list=PLIYNNTCMLigtC0XMJDcX-upYeAH-8Zd9i"
       },
       "videos": [
         {
-          "titulo": "Homem-Formiga e a Vespa",
-          "url": "https://www.youtube.com/watch?v=0HGBv7s1Y7E"
+          "titulo": "PORTO FASHION OUTLET - Saldos de verão #776",
+          "url": "https://youtu.be/sTy9szs4SnA"
         },
         {
-          "titulo": "SPIDER-MAN: INTO THE SPIDER-VERSE",
-          "url": "https://www.youtube.com/watch?v=g4Hbz2jLxvQ"
+          "titulo": "PASSEIO PELO CENTRO DO PORTO. De São Bento ao consulado Brasileiro #772",
+          "url": "https://youtu.be/Wz_J3_I-rzE"
         },
         {
-          "titulo": "SONIC: THE HEDGEHOG",
-          "url": "https://www.youtube.com/watch?v=lDfHbfVS8kI"
+          "titulo": "DE BRAGA A VILA VERDE - Passeio de Carro #771",
+          "url": "https://youtu.be/jEKNJbiziD0"
         },
         {
-          "titulo": "Aquaman",
-          "url": "https://www.youtube.com/watch?v=90bG43JcwRE"
+          "titulo": "POTOCO AMOU ESSA PRAIA- #770",
+          "url": "https://youtu.be/V5LuYqRhGsc"
         },
         {
-          "titulo": "This Beautiful Fantastic",
-          "url": "https://www.youtube.com/watch?v=8SrXaRRjxtI"
+          "titulo": "O MAIOR PARQUE AQUÁTICO DE PORTUGAL em montanha. #767",
+          "url": "https://youtu.be/kwvJXxg1LVY"
         },
         {
-          "titulo": "The Proposal",
-          "url": "https://www.youtube.com/watch?v=Z2lYA7L7PZY"
+          "titulo": "A MELHOR PRAIA FLUVIAL DE PORTUGAL #766",
+          "url": "https://youtu.be/cjhciLfFNvw"
         },
         {
-          "titulo": "Bumblebee ",
-          "url": "https://www.youtube.com/watch?v=lcwmDAYt22k"
+          "titulo": "FAMALICÃO - TEM TUDO E PERTO DE TUDO #765",
+          "url": "https://youtu.be/4XrH8SkBtpg"
         }    
       ]
     },
@@ -96,11 +103,11 @@
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Aprenda Inglês Sozinho",
       "cor": "blue",
       "link_extra": {
-        "text": "Top Games",
-        "url": "https://www.youtube.com/results?search_query=game+trailers"
+        "text": "Playlist",
+        "url": "https://www.youtube.com/c/AprendaIngl%C3%AAsSozinho/playlists"
       },
       "videos": [
         {
