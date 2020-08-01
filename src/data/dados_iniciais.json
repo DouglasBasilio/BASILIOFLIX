@@ -103,11 +103,11 @@
       ]
     },
     {
-      "titulo": "Aprenda Inglês Sozinho",
+      "titulo": "Games",
       "cor": "blue",
       "link_extra": {
-        "text": "Playlist",
-        "url": "https://www.youtube.com/c/AprendaIngl%C3%AAsSozinho/playlists"
+        "text": "Top Games",
+        "url": "https://www.youtube.com/results?search_query=game+trailers"
       },
       "videos": [
         {
