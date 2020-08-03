@@ -1,7 +1,7 @@
 {   "categorias":[      
     {         
     "id":1,
-    "nome":"Trips",
+    "titulo": "Trips",
     "descricao":"Top Trips",
     "cor":"#9cd33b",
     "link_extra":{
@@ -12,7 +12,7 @@
 },
  {         
     "id":2,
-    "nome":"Movies",
+    "titulo":"Movies",
     "descricao": "Top movies",
     "cor":"red",
     "link_extra":{
@@ -23,14 +23,14 @@
 },
  {
     "id":3,
-    "nome":"Music",
+    "titulo":"Music",
     "descricao":"Top Musics",
     "cor":"orange"
  
 },
  {         
     "id":4,
-    "nome":"Games",
+    "titulo":"Games",
     "descricao":"Top Games",
     "cor":"blue",
     "link_extra":{
